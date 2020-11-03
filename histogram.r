@@ -1,1 +1,1 @@
-hist(rnorm(500))
+hist(rnorm(500), col = "blue")
